@@ -1,6 +1,3 @@
-//import Calculadora from "./components/calculadora"
-//import ListaDeNombres from "./components/listaNombres"
-//import LocalStorageExample from "./components/usarLocalStorage"
 import FlightAirports_App from "./components/flightsApp_airports"
 import FlightFlights_App from "./components/flightsApp_flights"
 
@@ -12,20 +9,15 @@ export default function App() {
       </h1>
 
       <div>
-      {
-        
-      //<FlightAirports_App />
+      {        
+      <FlightAirports_App />
       }
       </div>
       <div>
-      {
-        
+      {        
       <FlightFlights_App />
       }
       </div>
-
-
-
     </div>
   )
 }
