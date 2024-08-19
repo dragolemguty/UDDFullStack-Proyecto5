@@ -13,8 +13,10 @@ Una vez con la Key, se debe cambiar esta parte del codigo (ya que solo tiene 100
 ![image](https://github.com/user-attachments/assets/4d12e527-1484-4eb3-a4a8-73f6c9cb788f)
 
 Al clonar el proyecto y aplicarlos comandos en la terminal: 
-  npm i
-  npm run dev
+
+  - npm i
+  
+  - npm run dev
 
 Se debería ver así:
 
